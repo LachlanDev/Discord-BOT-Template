@@ -39,7 +39,8 @@ exports.run = (client, message, args) =>{
     message.channel.send ('pong!')
 }
 ```
-Further documentation can be found [here](https://discord.js.org/#/)
+Further documentation can be found [here](https://discord.js.org/#/) or you can read my Blog Post which will explain how to create a Basic Discord BOT [here](https://blog.lachlan-dev.com/discord-bot-development-basics/)
+
 ## Contribute
 If you would like to contribute to the project please open a PR (Pull Request) clearly showing your changes.
 
